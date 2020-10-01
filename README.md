@@ -1,1 +1,1 @@
-# Java-ShopAddict-
+# Java-ShopAddict
