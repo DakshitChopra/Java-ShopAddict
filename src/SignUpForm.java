@@ -604,7 +604,7 @@ if(!matchh.matches())
 else{
     eiw.setText("");
     eid.setBorder(null);
-}            // TODO add your handling code here:
+}           
     }//GEN-LAST:event_eidKeyReleased
 
     private void fmActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_fmActionPerformed
@@ -651,11 +651,11 @@ if(!matchd.matches())
 }
 else{
     cow.setText("");
-    c.setBorder(null);}           // TODO add your handling code here:
+    c.setBorder(null);}          
     }//GEN-LAST:event_cKeyReleased
 
     private void repaMouseMoved(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_repaMouseMoved
-repa.setToolTipText("Passowrd should match") ;       // TODO add your handling code here:
+repa.setToolTipText("Passowrd should match") ;      
     }//GEN-LAST:event_repaMouseMoved
 
     private void stKeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_stKeyReleased
@@ -669,7 +669,7 @@ Border thinBorder = BorderFactory.createLineBorder(Color.RED);
 }
 else{
     sw.setText("");
-    st.setBorder(null);}        // TODO add your handling code here:
+    st.setBorder(null);}       
     }//GEN-LAST:event_stKeyReleased
 
     private void repaKeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_repaKeyReleased
@@ -684,7 +684,7 @@ Matcher matchf=pattf.matcher(rep);
          repa.setBorder(thinBorder);}
         else
         {rpw.setText("");
-            repa.setBorder(null);}// TODO add your handling code here:
+            repa.setBorder(null);}// 
     }//GEN-LAST:event_repaKeyReleased
 
     private void ynKeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_ynKeyReleased
