@@ -4,3 +4,12 @@ personalized profiles, separate Order & cart details & personalized window for c
 Database - SQL
 
 [![Watch the video](https://img.youtube.com/vi/ZC1oQnVGGYQ/default.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+# Requirements : 
+
+ 1.Netbeans IDE 8.2 or above
+ 
+ 2.JDK 1.3 or above
+ 
+ 3.JRE 7 or 8
+
